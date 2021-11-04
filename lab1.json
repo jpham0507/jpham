@@ -1,0 +1,85 @@
+{
+    "project": "Density of a Liquid",
+    "massOfGraduatedCylinder": "Mass of graduated cylinder (g)",
+    "massOfGraduatedCylinderWithContent": "Mass of graduated cylinder with liquid (g)",
+    "massOfLiquid": "Mass of liquid (g)",
+    "volumnOfLiquid": "Volumn of liquid (mL)",
+    "densityOfLiquid": "Density of liquid (g/mL)",
+    "bookValueForDensity": "Book value for density (g/mL)",
+    "percentError": "% error",
+    "trial": {
+        "description": "trail 1 - cylinder",
+        "imageOfEmpty": "url",
+        "empty": 38.47,
+        "imageWithLiquid": "url with liquid",
+        "withLiquid": 40.32,
+        "imageVolumeOfLiquid": "url",
+        "volumeOfLiquid": 2.40,
+        "expectedDensity": 12345,
+        "userInput": 0
+    },
+    "otherTrials": {
+        "trials": [
+            {
+                "description": "trail 2",
+                "empty": 38.47,
+                "withLiquid": 40.32,
+                "volumeOfLiquid": 2.40,
+                "expectedDensity": 12345,
+                "userInput": 0
+            },
+            {
+                "description": "trail 2",
+                "empty": 38.47,
+                "withLiquid": 40.32,
+                "volumeOfLiquid": 2.40,
+                "expectedDensity": 12345,
+                "userInput": 0
+            },
+            {
+                "description": "trail 2",
+                "empty": 38.47,
+                "withLiquid": 40.32,
+                "volumeOfLiquid": 2.40,
+                "expectedDensity": 12345,
+                "userInput": 0
+            },
+            {
+                "description": "trail 2",
+                "empty": 38.47,
+                "withLiquid": 41.85,
+                "volumeOfLiquid": 4.38,
+                "expectedDensity": 12345,
+                "userInput": 0
+            },
+            {
+                "description": "trail 3",
+                "empty": 38.47,
+                "withLiquid": 43.39,
+                "volumeOfLiquid": 5.38,
+                "expectedDensity": 12345,
+                "userInput": 0
+            },
+            {
+                "description": "trail 4",
+                "empty": 38.47,
+                "withLiquid": 44.72,
+                "volumeOfLiquid": 9.90,
+                "expectedDensity": 12345,
+                "userInput": 0
+            },
+            {
+                "description": "trail 5",
+                "empty": 38.47,
+                "withLiquid": 45.72,
+                "volumeOfLiquid": 9.23,
+                "expectedDensity": 12345,
+                "userInput": 0
+            }
+        ],
+        "userAverage": 12345,
+        "expectedAverage": 12345,
+        "userPercent": 12345,
+        "expectedPercent": 12345
+    }
+}
